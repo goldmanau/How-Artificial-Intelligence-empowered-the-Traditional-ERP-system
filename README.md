@@ -3,3 +3,5 @@
 For decades, Enterprise Resource Planning (ERP) systems such as SAP, Microsoft Dynamics, Oracle, and QAD have served as the backbone of manufacturing and supply chain operations. Material Requirements Planning (MRP) remains one of the most important functions within these systems, enabling organizations to translate demand into procurement and production plans.
 
 As Artificial Intelligence (AI) technologies mature, a common question is emerging: "Can AI replace ERP material planning systems?" The answer is more nuanced than many technology vendors suggest. While AI offers significant opportunities to improve planning quality, forecast accuracy, inventory optimization, and sourcing decisions, it is unlikely to replace the core deterministic planning and transaction-processing capabilities of ERP systems. Instead, AI is expected to become an intelligent planning layer operating above traditional ERP platforms, augmenting human decision-making and improving supply chain performance.
+
+Full Report: ERP and AI.pdf
